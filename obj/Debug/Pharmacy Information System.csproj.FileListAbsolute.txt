@@ -1,0 +1,40 @@
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\Pharmacy Information System.exe.config
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\Pharmacy Information System.exe
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\Pharmacy Information System.pdb
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy Information System.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.Form1.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy Information System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy Information System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy.C98B6AC8.Up2Date
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy Information System.exe
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy Information System.pdb
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.MenuForm.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.ItemFoem.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.SalesOrderForm.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.InventoryManagementForm.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.PurchaseOrder.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.WarehouseForm.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.StockMovementForm.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\EPPlus.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\EPPlus.xml
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.CustomerForm.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.PaymentForm.resources
+C:\Users\Admin\Desktop\Pharmacy Information System\Pharmacy Information System\obj\Debug\Pharmacy_Information_System.PaymentDataForm.resources
